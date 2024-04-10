@@ -316,13 +316,13 @@ main .container .links .icon-box a:hover {
   transform: scale(1.1);
 }
 main .container .links .icon-box .telegram {
-  border: 2px solid rgb(0, 136, 204);
-  background: rgb(0, 136, 204);
+  background: white;
 }
 main .container .links .icon-box .telegram svg {
   color: rgb(0, 136, 204);
   width: 36px;
   height: 36px;
+  fill: rgb(0, 136, 204);
 }
 main .container .links .icon-box .instagram {
   background: linear-gradient(#f9ce34, #ee2a7b, #6228d7);
