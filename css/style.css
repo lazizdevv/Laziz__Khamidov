@@ -317,6 +317,7 @@ main .container .links .icon-box a:hover {
 }
 main .container .links .icon-box .telegram {
   background: white;
+  border: 3px solid transparent;
 }
 main .container .links .icon-box .telegram svg {
   color: rgb(0, 136, 204);
@@ -328,5 +329,10 @@ main .container .links .icon-box .instagram {
   background: linear-gradient(#f9ce34, #ee2a7b, #6228d7);
 }
 main .container .links .icon-box .twitter {
-  background: rgb(29, 155, 240);
+  background: black;
+}
+main .container .links .icon-box .ummalife img {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
 }

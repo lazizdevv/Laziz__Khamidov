@@ -10,7 +10,6 @@ main{
     font-size: 14px;
     width: 100%;
     
-    
     .container{
 
         .info-box{
@@ -91,6 +90,7 @@ main{
                 margin: 0;
                 margin-bottom: 40px !important;
             }
+
             .icon-box{
                 display: flex;
                 justify-content: center;
@@ -114,6 +114,7 @@ main{
 
                 .telegram{
                     background: white;
+                    border: 3px solid transparent;
 
                     svg{
                         color: rgb(0, 136, 204);
@@ -128,7 +129,15 @@ main{
                 }
 
                 .twitter{
-                    background: rgb(29, 155, 240);
+                    background: black;
+                }
+
+                .ummalife{
+                    img{
+                        width: 36px;
+                        height: 36px;
+                        border-radius: 50%;
+                    }
                 }
             }
         }   
