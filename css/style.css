@@ -336,3 +336,7 @@ main .container .links .icon-box .ummalife img {
   height: 36px;
   border-radius: 50%;
 }
+main .container .links .icon-box .facebook {
+  background-color: white;
+  border: 3px solid transparent;
+}
